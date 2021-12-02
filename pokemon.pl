@@ -1,11 +1,5 @@
 /*
  * Pokedex Discovery
- * 
- * Carolina França Pimentel de Cirqueira - 029191061
- * Gabriel Borges Calheiros - 029181066
- * Guilherme Luiz Garcia Lefrançois - 029181030
- * Lucas Ruan Andrade Almeida - 029201064
- * 
 */
 
 /* Padrão da resposta */
