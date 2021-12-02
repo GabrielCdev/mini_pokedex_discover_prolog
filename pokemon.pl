@@ -1,5 +1,5 @@
 /*
- * Pokedex Discover
+ * Pokedex Discovery
  * 
  * Carolina França Pimentel de Cirqueira - 029191061
  * Gabriel Borges Calheiros - 029181066
